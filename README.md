@@ -1,2 +1,6 @@
 # wd2ca2
-BiCS - Web Development 2 - ca2
+## Goal
+Demonstrate basic Git skills
+
+## Technology
+Python 3
